@@ -1,5 +1,5 @@
-header title{
-  color: crimson
+header{
+  color:crimson
 }
 
 body{
@@ -25,10 +25,6 @@ h4{
 
 h5{
   color: crimson
-}
-
-header title{
-  padding: 20px
 }
 
 article{

@@ -1,0 +1,23 @@
+h2{
+  color: darkgreen;
+}
+
+p{
+  color:darkgreen
+}
+
+#articleOne{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#articleTwo{
+  font-family: cursive;
+}
+
+#articleThree{
+  font-family: 'Courier New', Courier, monospace;
+}
+
+#articleFour{
+  font-family: fantasy;
+}

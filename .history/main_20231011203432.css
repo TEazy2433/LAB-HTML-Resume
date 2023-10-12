@@ -1,7 +1,3 @@
-header title{
-  color: crimson
-}
-
 body{
   background-color: antiquewhite;
 }
@@ -27,31 +23,21 @@ h5{
   color: crimson
 }
 
-header title{
-  padding: 20px
-}
-
-article{
-  padding: 8px;
-}
-
-
 #articleOne{
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  border: 3px dotted blue
+  border: 1px dotted blue
 }
 
 #articleTwo{
   font-family: cursive;
-  border: 10px solid green
+  border: 10px solid
 }
 
 #articleThree{
   font-family: 'Courier New', Courier, monospace;
-  border: 4px dashed turquoise
+  border: 4px dashed
 }
 
 #articleFour{
   font-family: fantasy;
-  border: 7px ridge yellow
 }
